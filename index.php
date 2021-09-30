@@ -13,7 +13,5 @@ echo __FILE__ . "<br><br>";
 echo “<p>Example for __DIR__</p>”;  
 echo __DIR__ . "<br><br>";
  
-?>
- 
 </body>
 </html>
